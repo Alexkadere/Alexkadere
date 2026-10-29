@@ -2,7 +2,7 @@
 
 **Étudiant en BTS SIO — option SLAM** au lycée Chevrollier à Angers.
 
-Passionné par le développement logiciel, la robotique et les nouvelles technologies, j'aime concevoir des projets concrets et apprendre les outils nécessaires pour les réaliser. Je m'intéresse autant à la création d'applications qu'aux systèmes embarqués et au développement de jeux vidéo.
+Passionné avant tout par l'**aérospatiale et l'exploration spatiale**, je m'intéresse aux technologies qui permettent de concevoir, piloter et explorer : logiciel, robotique, systèmes embarqués et simulation.\n\nJ'aime apprendre en construisant des projets concrets, qu'il s'agisse d'applications web, de prototypes robotiques ou d'environnements 3D. À terme, j'aimerais rapprocher mes compétences informatiques du domaine spatial.
 
 ## Projets
 
