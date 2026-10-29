@@ -2,7 +2,9 @@
 
 **Étudiant en BTS SIO — option SLAM** au lycée Chevrollier à Angers.
 
-Passionné avant tout par l'**aérospatiale et l'exploration spatiale**, je m'intéresse aux technologies qui permettent de concevoir, piloter et explorer : logiciel, robotique, systèmes embarqués et simulation.\n\nJ'aime apprendre en construisant des projets concrets, qu'il s'agisse d'applications web, de prototypes robotiques ou d'environnements 3D. À terme, j'aimerais rapprocher mes compétences informatiques du domaine spatial.
+Passionné avant tout par l'**aérospatiale et l'exploration spatiale**, je m'intéresse aux technologies qui permettent de concevoir, piloter et explorer : logiciel, robotique, systèmes embarqués et simulation.
+
+J'aime apprendre en construisant des projets concrets, qu'il s'agisse d'applications web, de prototypes robotiques ou d'environnements 3D. À terme, j'aimerais rapprocher mes compétences informatiques du domaine spatial.
 
 ## Projets
 
@@ -16,8 +18,8 @@ Conception, impression 3D et programmation d'un bras robotique piloté par micro
 **Technologies :** ESP32, PCA9685, CAO, impression 3D.  
 **État :** prototype en évolution.
 
-### Jeu vidéo — Exploration d'une planète 3D
-Expérimentation autour d'un jeu d'exploration en 3D, développé avec l'aide d'outils d'intelligence artificielle. Travail sur l'environnement, le rendu et les interactions.  
+### Jeu vidéo — Monde ouvert, exploration et combat
+Prototype de jeu en monde ouvert mêlant exploration et combat. L'ambition à long terme est de représenter le **Système solaire entier à l'échelle 1:1**, avec des planètes aux dimensions réelles et une simulation fondée sur les lois de la physique. Le projet est encore expérimental et développé avec l'appui d'outils d'intelligence artificielle.  
 **Technologies :** TypeScript, Three.js.  
 **État :** prototype expérimental.
 
@@ -27,9 +29,11 @@ Projet réalisé lors de mon stage de première année : participation à des tr
 
 ## Compétences et outils
 
-- **Développement :** TypeScript, JavaScript, HTML, CSS, PHP, SQL, C#, Python
-- **Frameworks et outils :** React, Next.js, Laravel, Git, GitHub, VS Code
-- **Systèmes et matériel :** Linux, ESP32, impression 3D
+- **Technologies pratiquées en formation ou sur des projets :** HTML, CSS, JavaScript, PHP, SQL, C#, Python, Laravel
+- **Outils et environnements :** Git, GitHub, VS Code, Linux
+- **Prototypage :** ESP32, CAO, impression 3D
+
+J'explore également **React, Next.js, TypeScript et Three.js** dans mes projets personnels, notamment avec l'assistance d'outils d'IA. Je suis encore en phase d'apprentissage de ces technologies.
 
 ## Contact
 
